@@ -22,4 +22,3 @@ example:example.o
 	
 clean:
 	rm -f *.o $(BIN)
-
