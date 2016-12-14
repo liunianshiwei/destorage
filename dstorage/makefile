@@ -28,4 +28,4 @@ redis_op_test:redis_op_test.o make_log.o redis_op.o
 	$(CC) $(CFLGS) -c $< -o $(OBJDIR)/$(@F)
 	
 clean:
-	-rm -f $(OBJDIR)/*.o $(BIN)
+	-rm -f $(OBJDIR)/* $(BIN)
