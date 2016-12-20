@@ -1,0 +1,140 @@
+===20161219-132950,rop_connectdb_nopwd[366]=== [-][GMS_REDIS]Connect 127.0.0.1:6379 Error:Connection refused
+
+===20161219-133153,rop_connectdb_nopwd[372]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-133153,rop_zset_increment[1019]=== [-][GMS_REDIS]Add or increment table: FILE_HOT_ZSET,member: group1/M00/00/00/wKgX3lhXcMmANI9nAAAIfitoHaE251.png Error:1,
+
+===20161219-133153,rop_hash_get[709]=== [-][GMS_REDIS]hget USER_USERID_HASH   error 
+
+===20161219-133153,rop_disconnect[528]=== [+][GMS_REDIS]Disconnect SUCCESS!
+
+===20161219-133203,rop_connectdb_nopwd[372]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-133203,rop_hash_get[709]=== [-][GMS_REDIS]hget USER_USERID_HASH   error 
+
+===20161219-133203,rop_disconnect[528]=== [+][GMS_REDIS]Disconnect SUCCESS!
+
+===20161219-142748,rop_connectdb_nopwd[372]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-142748,rop_hash_get[709]=== [-][GMS_REDIS]hget USER_USERID_HASH   error 
+
+===20161219-142748,rop_disconnect[528]=== [+][GMS_REDIS]Disconnect SUCCESS!
+
+===20161219-143232,rop_connectdb_nopwd[372]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-143232,rop_hash_get[709]=== [-][GMS_REDIS]hget USER_USERID_HASH   error 
+
+===20161219-143232,rop_disconnect[528]=== [+][GMS_REDIS]Disconnect SUCCESS!
+
+===20161219-143912,rop_connectdb_nopwd[372]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-143912,rop_hash_get[709]=== [-][GMS_REDIS]hget USER_USERID_HASH   error 
+
+===20161219-143912,rop_disconnect[528]=== [+][GMS_REDIS]Disconnect SUCCESS!
+
+===20161219-145408,rop_connectdb_nopwd[372]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-145408,rop_hash_get[709]=== [-][GMS_REDIS]hget USER_USERID_HASH   error 
+
+===20161219-145408,rop_disconnect[528]=== [+][GMS_REDIS]Disconnect SUCCESS!
+
+===20161219-145416,rop_connectdb_nopwd[372]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-145416,rop_hash_get[709]=== [-][GMS_REDIS]hget USER_USERID_HASH   error 
+
+===20161219-145416,rop_disconnect[528]=== [+][GMS_REDIS]Disconnect SUCCESS!
+
+===20161219-151045,rop_connectdb_nopwd[372]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-151045,rop_zset_increment[1019]=== [-][GMS_REDIS]Add or increment table: FILE_HOT_ZSET,member: group1/M00/00/00/wKgX3lhXh_SAOzT9ABin7riHCAA712.png Error:1,
+
+===20161219-151045,rop_hash_get[709]=== [-][GMS_REDIS]hget USER_USERID_HASH   error 
+
+===20161219-151045,rop_disconnect[528]=== [+][GMS_REDIS]Disconnect SUCCESS!
+
+===20161219-151053,rop_connectdb_nopwd[372]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-151053,rop_hash_get[709]=== [-][GMS_REDIS]hget USER_USERID_HASH   error 
+
+===20161219-151053,rop_disconnect[528]=== [+][GMS_REDIS]Disconnect SUCCESS!
+
+===20161219-151100,rop_connectdb_nopwd[372]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-151100,rop_hash_get[709]=== [-][GMS_REDIS]hget USER_USERID_HASH   error 
+
+===20161219-151100,rop_disconnect[528]=== [+][GMS_REDIS]Disconnect SUCCESS!
+
+===20161219-151122,rop_connectdb_nopwd[372]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-151122,rop_hash_get[709]=== [-][GMS_REDIS]hget USER_USERID_HASH   error 
+
+===20161219-151122,rop_disconnect[528]=== [+][GMS_REDIS]Disconnect SUCCESS!
+
+===20161219-151324,rop_connectdb_nopwd[372]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-151324,rop_hash_get[709]=== [-][GMS_REDIS]hget USER_USERID_HASH   error 
+
+===20161219-151324,rop_disconnect[528]=== [+][GMS_REDIS]Disconnect SUCCESS!
+
+===20161219-162523,rop_connectdb_nopwd[372]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-162523,rop_hash_get[709]=== [-][GMS_REDIS]hget USER_USERID_HASH   error 
+
+===20161219-162523,rop_disconnect[528]=== [+][GMS_REDIS]Disconnect SUCCESS!
+
+===20161219-162535,rop_connectdb_nopwd[372]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-162535,rop_hash_get[709]=== [-][GMS_REDIS]hget USER_USERID_HASH   error 
+
+===20161219-162535,rop_disconnect[528]=== [+][GMS_REDIS]Disconnect SUCCESS!
+
+===20161219-162548,rop_connectdb_nopwd[372]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-162548,rop_hash_get[709]=== [-][GMS_REDIS]hget USER_USERID_HASH   error 
+
+===20161219-162548,rop_disconnect[528]=== [+][GMS_REDIS]Disconnect SUCCESS!
+
+===20161219-165248,rop_connectdb_nopwd[372]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-165248,rop_zset_increment[1019]=== [-][GMS_REDIS]Add or increment table: FILE_HOT_ZSET,member: group1/M00/00/00/wKgX3lhXn-CAS_IWAAAXpGm0Cdw666.jpg Error:1,
+
+===20161219-165248,rop_hash_get[709]=== [-][GMS_REDIS]hget USER_USERID_HASH   error 
+
+===20161219-165248,rop_disconnect[528]=== [+][GMS_REDIS]Disconnect SUCCESS!
+
+===20161219-165255,rop_connectdb_nopwd[372]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-165255,rop_hash_get[709]=== [-][GMS_REDIS]hget USER_USERID_HASH   error 
+
+===20161219-165255,rop_disconnect[528]=== [+][GMS_REDIS]Disconnect SUCCESS!
+
+===20161219-171149,rop_connectdb_nopwd[372]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-171149,rop_hash_get[709]=== [-][GMS_REDIS]hget USER_USERID_HASH   error 
+
+===20161219-171149,rop_disconnect[528]=== [+][GMS_REDIS]Disconnect SUCCESS!
+
+===20161219-180641,rop_connectdb_nopwd[372]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-180641,rop_hash_get[709]=== [-][GMS_REDIS]hget USER_USERID_HASH   error 
+
+===20161219-180641,rop_disconnect[528]=== [+][GMS_REDIS]Disconnect SUCCESS!
+
+===20161219-185949,rop_connectdb_nopwd[372]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-185949,rop_hash_get[709]=== [-][GMS_REDIS]hget USER_USERID_HASH   error 
+
+===20161219-185949,rop_disconnect[528]=== [+][GMS_REDIS]Disconnect SUCCESS!
+
+===20161219-185950,rop_connectdb_nopwd[372]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-185950,rop_hash_get[709]=== [-][GMS_REDIS]hget USER_USERID_HASH   error 
+
+===20161219-185950,rop_disconnect[528]=== [+][GMS_REDIS]Disconnect SUCCESS!
+
+===20161219-190007,rop_connectdb_nopwd[372]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161219-190007,rop_hash_get[709]=== [-][GMS_REDIS]hget USER_USERID_HASH   error 
+
+===20161219-190007,rop_disconnect[528]=== [+][GMS_REDIS]Disconnect SUCCESS!
+

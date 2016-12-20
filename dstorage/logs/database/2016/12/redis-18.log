@@ -1,0 +1,6 @@
+===20161218-232331,rop_connectdb_nopwd[372]=== [+][GMS_REDIS]Connect 127.0.0.1:6379 SUCCESS!
+
+===20161218-232331,rop_zset_increment[1019]=== [-][GMS_REDIS]Add or increment table: FILE_HOT_ZSET,member: group1/M00/00/00/wKgX3lhWqfOAPBOdAAAIfitoHaE862.jpg Error:1,
+
+===20161218-232331,rop_disconnect[528]=== [+][GMS_REDIS]Disconnect SUCCESS!
+

@@ -1,0 +1,15 @@
+===20161220-183833,main[122]=== login:[user=wang,pwd=123,type=10]
+===20161220-183833,process_result[42]=== 1 rows returned 
+
+===20161220-183833,process_result[51]=== 0 row is 123
+===20161220-184125,main[122]=== login:[user=wangjun,pwd=123,type=10]
+===20161220-184125,process_result[42]=== 0 rows returned 
+
+===20161220-184136,main[122]=== login:[user=wang,pwd=123,type=10]
+===20161220-184136,process_result[42]=== 1 rows returned 
+
+===20161220-184136,process_result[51]=== 0 row is 123
+===20161220-185603,main[122]=== login:[user=wang,pwd=123,type=10]
+===20161220-185603,process_result[42]=== 1 rows returned 
+
+===20161220-185603,process_result[51]=== 0 row is 123
