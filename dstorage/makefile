@@ -23,6 +23,7 @@ example:example.o
 redis_op_test:redis_op_test.o make_log.o redis_op.o
 	cd	$(OBJDIR);$(CC) $(LIBFLAG) $^ -o $@ -lhiredis
 	@cp	$(OBJDIR)/redis_op_test .
+<<<<<<< HEAD
 	
 fcgi_main:fcgi_main.o
 	cd	$(OBJDIR);$(CC) $(LIBFLAG) $^ -o $@ -lfcgi
@@ -43,9 +44,10 @@ fcgi_reg:fcgi_reg.o make_log.o util_cgi.o redis_op.o cJSON.o dao_mysql.o
 fcgi_login:fcgi_login.o make_log.o util_cgi.o redis_op.o cJSON.o dao_mysql.o
 	cd	$(OBJDIR);$(CC) $(LIBFLAG) $^ -o $@ -lfcgi -lhiredis -lm -lfdfsclient -lmysqlclient
 	@cp	$(OBJDIR)/fcgi_login .	
+
 	
 %.o:%.c
 	$(CC) $(CFLGS) -c $< -o $(OBJDIR)/$(@F)
 	
 clean:
-	-rm -f $(OBJDIR)/*.o $(BIN)
+	-rm -f $(OBJDIR)/* $(BIN)

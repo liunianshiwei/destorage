@@ -1,3 +1,4 @@
+
 /**
  * @file redis_op.c
  * @brief  redisAPI封装包裹
@@ -1199,3 +1200,4 @@ END:
     freeReplyObject(reply);
     return retn;
 }
+
