@@ -23,7 +23,6 @@ example:example.o
 redis_op_test:redis_op_test.o make_log.o redis_op.o
 	cd	$(OBJDIR);$(CC) $(LIBFLAG) $^ -o $@ -lhiredis
 	@cp	$(OBJDIR)/redis_op_test .
-<<<<<<< HEAD
 	
 fcgi_main:fcgi_main.o
 	cd	$(OBJDIR);$(CC) $(LIBFLAG) $^ -o $@ -lfcgi
